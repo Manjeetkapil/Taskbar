@@ -1,2 +1,3 @@
-npm start then npm run server '\n'
+npm start then npm run server
+
 need to add routing 
